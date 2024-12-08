@@ -59,6 +59,7 @@ public class FileScan
         }
         else
         {
+            System.out.print("Please select a file via the File Chooser.");
             try
             {
 
