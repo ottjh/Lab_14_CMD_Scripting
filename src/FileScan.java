@@ -64,7 +64,7 @@ public class FileScan
             {
 
                 //Had no idea how to use the get property command correctly.
-                File workingDirectory = new File("C:\\Users\\jhott\\IdeaProjects\\Lab_14_CMD_Scripting\\src");
+                File workingDirectory = new File("C:\\ScanApp");
 
 
                 chooser.setCurrentDirectory(workingDirectory);
