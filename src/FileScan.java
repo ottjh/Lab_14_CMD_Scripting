@@ -20,6 +20,7 @@ public class FileScan
         {
             try
             {
+                File workingDirectory = new File("C:\\ScanApp");
                 selectedFile = new File(args[0]);
                 if (!selectedFile.exists())
                 {
